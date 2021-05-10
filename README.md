@@ -5,3 +5,6 @@
  3. Tunggu beberapa saat hingga admin target menjalankan payload tersebut.
  4. Periksa cookie yang berhasil *dicuri* pada halaman [admin](https://github.com/IhsanDevs/cookie-stealer-php/blob/main/admin.php).
  5. **SELESAI**
+
+#
+![Cookie Stealer PHP](https://github.com/IhsanDevs/cookie-stealer-php/raw/main/cookie-stealer.PNG)
